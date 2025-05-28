@@ -36,7 +36,6 @@ int main()
 
     printf("\nDisplaying Information:\n");
     
-     float totalMarks = 0;
     for (i = 0; i < No_of_Records; ++i) {
         
     }
